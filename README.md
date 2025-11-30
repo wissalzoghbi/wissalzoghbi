@@ -13,9 +13,10 @@ Passionate about turning Data into insights and building AI solutions.
   Billing Administrator at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
 
   ## Projects:
-  -**Tunisian Dialect Audio Classifier** -ML/NLP project for audio calssification
-  -**Sales Forecast Dashboard** - Power BI & Excel dashboards for business KPIs
-  -**Customer Churn prediction** - Machine Learning model for predicting client hurn
+  - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
+  - **Sales Forecast Dashboard** Power BI & Excel dashboards for business KPIs
+  - **Customer Churn prediction** Machine Learning model for predicting client hurn
+
 
   ##  Contact
 - 📧 Email: zoghbiwissal@gmail.com  
