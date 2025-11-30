@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Wissal ZOGHBI 👋
 
-<!--
-**wissalzoghbi/wissalzoghbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst / BI & Machine Learning Enthusiast**
+Passionate about turning Data into insights and building AI solutions.
 
-Here are some ideas to get you started:
+## Skills
+- **Promgramming:** Python (Pandas, numpy, scikit-learn), R
+- **Data & BI:** Power BI, Excel(pivot tables, VLOOKUP, formulas), SQL
+- **Machine Learning & AI:** Classification, Regression , NLP, Audio & CV projects
+- **Tools:** Jira, Dynamics AX, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Current Role:
+  Billing Administrator at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
+
+  ## Projects:
+  -**Tunisian Dialect Audio Classifier** -ML/NLP project for audio calssification
+  -**Sales Forecast Dashboard** - Power BI & Excel dashboards for business KPIs
+  -**Customer Churn prediction** - Machine Learning model for predicting client hurn
+
+  ##  Contact
+- 📧 Email: zoghbiwissal@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/wissal-zoghbi](https://linkedin.com/in/wissal-zoghbi)  
+- 🔗 Portfolio: [GitHub Projects](https://github.com/wissalzoghbi)
