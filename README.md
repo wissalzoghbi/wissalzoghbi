@@ -1,6 +1,6 @@
-## Hi, I'm Wissal ZOGHBI 👋
+## Hello, I am Wissal ZOGHBI 👋
 
-**Data Analyst / BI & Machine Learning Enthusiast**
+**Data Scientist / Analyst & Machine Learning Enthusiast**
 Passionate about turning Data into insights and building AI solutions.
 
 ## Skills
@@ -10,12 +10,13 @@ Passionate about turning Data into insights and building AI solutions.
 - **Tools:** Jira, Dynamics AX, Git, GitHub
 
   ## Current Role:
-  Billing Administrator at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
+  Billing & Data operations Administrator at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
 
   ## Projects:
   - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
   - **Sales Forecast Dashboard** Power BI & Excel dashboards for business KPIs
-  - **Customer Churn prediction** Machine Learning model for predicting client hurn
+  - **Customer Churn prediction** Machine Learning model for predicting client churn
+  - **Heart Disease detection** Machine Learning models
 
 
   ##  Contact
