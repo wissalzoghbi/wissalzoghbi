@@ -10,7 +10,7 @@ Passionate about turning Data into insights and building AI solutions.
 - **Tools:** Jira, Dynamics AX, Git, GitHub
 
   ## Current Role:
-  Billing & Data operations Administrator at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
+  Billing & Data operations Analyst at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
 
   ## Projects:
   - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
