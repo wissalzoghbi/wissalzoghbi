@@ -1,4 +1,4 @@
-## Hello, I am Wissal ZOGHBI 👋
+## Hello, I am Wissal ZOGHBI 
 
 **Data Scientist / Analyst & Machine Learning Enthusiast**
 Passionate about turning Data into insights and building AI solutions.
