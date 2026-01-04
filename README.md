@@ -20,6 +20,6 @@ Passionate about turning Data into insights and building AI solutions.
 
 
   ##  Contact
-- 📧 Email: zoghbiwissal@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/wissal-zoghbi](https://linkedin.com/in/wissal-zoghbi)  
-- 🔗 Portfolio: [GitHub Projects](https://github.com/wissalzoghbi)
+- Email: zoghbiwissal@gmail.com  
+- LinkedIn: [linkedin.com/in/wissal-zoghbi](https://linkedin.com/in/wissal-zoghbi)  
+- Portfolio: [GitHub Projects](https://github.com/wissalzoghbi)
