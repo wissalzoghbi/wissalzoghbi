@@ -1,4 +1,5 @@
-## Hi, I’m Wissal Zoghbi, aspiring ML/DL Engineer with a background in Statistics & Data Science
+## Hi, I’m Wissal Zoghbi,
+Aspiring ML/DL Engineer with a background in Statistics & Data Science
 
 ## Skills
 - **Promgramming:** Python (Pandas, numpy, scikit-learn), R
