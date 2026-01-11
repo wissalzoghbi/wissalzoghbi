@@ -1,4 +1,4 @@
-## Hi, I’m Wissal Zoghbi,
+## Hi, I’m Wissal Zoghbi
 Aspiring ML/DL Engineer with a background in Statistics & Data Science
 
 ## Skills
