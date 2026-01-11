@@ -1,7 +1,4 @@
-## Hello, I am Wissal ZOGHBI 
-
-**Data Scientist / Analyst & Machine Learning Enthusiast**
-Passionate about turning Data into insights and building AI solutions.
+## Hi, I’m Wissal Zoghbi, aspiring ML/DL Engineer with a background in Statistics & Data Science
 
 ## Skills
 - **Promgramming:** Python (Pandas, numpy, scikit-learn), R
