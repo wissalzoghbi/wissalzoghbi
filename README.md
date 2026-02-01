@@ -11,10 +11,10 @@ Aspiring ML/DL Engineer with a background in Statistics & Data Science
   Billing & Data operations Analyst at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
 
   ## Projects:
-  - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
   - **Customer Churn prediction** Machine Learning model for predicting client churn
   - **Heart Disease detection** Machine Learning models
   - **Flight price prediction** Machine Learning and Deep learning models
+  - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
 
 
   ##  Contact
