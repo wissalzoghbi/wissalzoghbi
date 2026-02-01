@@ -12,9 +12,9 @@ Aspiring ML/DL Engineer with a background in Statistics & Data Science
 
   ## Projects:
   - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
-  - **Sales Forecast Dashboard** Power BI & Excel dashboards for business KPIs
   - **Customer Churn prediction** Machine Learning model for predicting client churn
   - **Heart Disease detection** Machine Learning models
+  - **Flight price prediction** Machine Learning and Deep learning models
 
 
   ##  Contact
