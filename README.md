@@ -1,23 +1,22 @@
-## Hi, I’m Wissal Zoghbi
-Aspiring ML/DL Engineer with a background in Statistics & Data Science
+# Hi, I'm Wissal Zoghbi 👋
 
-## Skills
-- **Promgramming:** Python (Pandas, numpy, scikit-learn), R
-- **Data & BI:** Power BI, Excel(pivot tables, VLOOKUP, formulas), SQL
-- **Machine Learning & AI:** Classification, Regression , NLP, Audio & CV projects
-- **Tools:** Jira, Dynamics AX, Git, GitHub
+### Data Science & AI Engineer 
+Bridging statistical rigor with production-grade Generative AI and automation.
 
-  ## Current Role:
-  Billing & Data operations Analyst at smartbox- Working with ERP, Excel, and Power BI to manage and analyse business data.
+---
 
-  ## Projects:
-  - **Customer Churn prediction** Machine Learning model for predicting client churn
-  - **Heart Disease detection** Machine Learning models
-  - **Flight price prediction** Machine Learning and Deep learning models
-  - **Tunisian Dialect Audio Classifier** ML/NLP project for audio calssification
+## 🚀 About Me
+- **Education:** National Engineering Degree in Statistics & Data Analysis (ESSAI)
+-  **Current Focus:** Optimizing financial data pipelines & automating complex workflows.
+-  **Learning & Exploring:** Advanced RAG architectures, LLM fine-tuning, and MLOps.
 
+## 🛠️ Tech Stack
+- **AI & Deep Learning:** Python, PyTorch, TensorFlow, Hugging Face, LangChain
+- **Data & MLOps:** SQL, Power BI, Google Cloud Platform (GCP), Git
+- **Languages:** Arabic, French, English
 
-  ##  Contact
-- Email: zoghbiwissal@gmail.com  
-- LinkedIn: [linkedin.com/in/wissal-zoghbi](https://linkedin.com/in/wissal-zoghbi)  
-- Portfolio: [GitHub Projects](https://github.com/wissalzoghbi)
+---
+
+## 📈 Current Projects (In Development)
+*  **Enterprise Financial RAG:** An advanced AI assistant to query and audit tabular financial data.
+*  **Smart Reconciliation Engine:** Automated high-volume data pipeline for complex sales reconciliation.
